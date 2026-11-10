@@ -1,6 +1,10 @@
-2026/11/10-08:53:38.547 6b8c Reusing MANIFEST C:\Users\ajjav\AppData\Local\Temp\flutter_tools.ab831383\flutter_tools_chrome_device.b2ad0bb3\Default\shared_proto_db/MANIFEST-000001
-2026/11/10-08:53:38.548 6b8c Recovering log #10
-2026/11/10-08:53:38.549 6b8c Reusing old log C:\Users\ajjav\AppData\Local\Temp\flutter_tools.ab831383\flutter_tools_chrome_device.b2ad0bb3\Default\shared_proto_db/000010.log 
-2026/11/10-08:53:38.549 6b8c Delete type=0 #3
-2026/11/10-08:53:38.550 6b8c Delete type=0 #4
-2026/11/10-08:53:38.550 6b8c Delete type=0 #7
+2026/11/10-13:17:23.680 6580 Reusing MANIFEST C:\Users\ajjav\AppData\Local\Temp\flutter_tools.d7612c0e\flutter_tools_chrome_device.289eb7c5\Default\shared_proto_db/MANIFEST-000001
+2026/11/10-13:17:23.684 6580 Recovering log #13
+2026/11/10-13:17:23.686 6580 Reusing old log C:\Users\ajjav\AppData\Local\Temp\flutter_tools.d7612c0e\flutter_tools_chrome_device.289eb7c5\Default\shared_proto_db/000013.log 
+2026/11/10-13:17:23.687 6580 Delete type=0 #3
+2026/11/10-13:17:23.687 6580 Delete type=0 #4
+2026/11/10-13:17:23.687 6580 Delete type=0 #7
+2026/11/10-13:17:23.687 6580 Delete type=0 #10
+2026/11/10-13:17:43.589 5a1c Level-0 table #17: started
+2026/11/10-13:17:43.592 5a1c Level-0 table #17: 138178 bytes OK
+2026/11/10-13:17:43.594 5a1c Delete type=0 #13
