@@ -1,15 +1,14 @@
-﻿import 'package:flutter/material.dart';
+﻿
+import 'package:flutter/material.dart';
 
-// Kelas ColorConstant: Wadah untuk menyimpan kode warna resmi aplikasi (Palet Cat)
 class ColorConstant {
-  // Warna oranye utama khas aplikasi Bitaqwa
-  static Color colorPrimary = const Color.fromARGB(255, 249, 203, 104);
-  // Warna oranye gelap untuk bayangan atau penekanan
-  static Color colorPrimaryDark = const Color(0xffC75D3C);
-  // Warna aksen biru muda lembut untuk latar belakang kartu
-  static Color colorAccent = const Color(0xffEAF9FF);
-  // Warna putih bersih
-  static Color colorWhite = const Color(0xffffffff);
-  // Warna abu-abu gelap untuk teks agar nyaman dibaca
-  static Color colorText = const Color(0xff474747);
+  static Color colorPrimary = const Color(0xFF164B3B);
+
+  static Color colorPrimaryDark = const Color(0xFF10382D);
+
+  static Color colorAccent = const Color(0xFFE8F0E9);
+
+  static Color colorWhite = const Color(0xFFFFFFFF);
+
+  static Color colorText = const Color(0xFF25352D);
 }
