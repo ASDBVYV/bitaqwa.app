@@ -10,7 +10,7 @@ class VideoKajianScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      // Bilah judul AppBar
+      
       appBar: AppBar(
         backgroundColor: ColorConstant.colorPrimary,
         title: Text(
